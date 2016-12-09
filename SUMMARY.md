@@ -19,4 +19,5 @@
     * Getting Started
     * Tools
     * [Section Three Exercises](section-three-exercises.md)
+* [Additional Resources](additional-resources.md)
 
