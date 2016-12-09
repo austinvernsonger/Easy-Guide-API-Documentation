@@ -1,6 +1,14 @@
-## Exercise 1
+## Exercise 1 - Postman
 
-## Exercise 2
+---
+
+## 
+
+## Exercise 2 - cURL
+
+---
+
+
 
 
 
