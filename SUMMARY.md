@@ -18,4 +18,5 @@
     * API Overview Material
     * Getting Started
     * Tools
+    * [Section Three Exercises](section-three-exercises.md)
 
